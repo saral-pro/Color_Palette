@@ -1,4 +1,4 @@
-**Color palette for a healthcare application and justify the choice based on color psychology.**
+**Color palette for a healthcare application and justify the choice based on color psychology**
 
 Design Link
 

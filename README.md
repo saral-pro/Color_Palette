@@ -1,5 +1,5 @@
-**Color Palette for a healthcare,Educational,Banking Application 
-**
+**Color Palette for a healthcare,Educational,Banking Application**
+
 
 Design Link
 
